@@ -1,0 +1,8 @@
+datapipeline/
+output/*
+
+*.DS_Store
+*.idea/
+*.ipynb
+*.pyc
+*.pyo
